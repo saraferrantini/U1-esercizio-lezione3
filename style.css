@@ -70,3 +70,8 @@ footer {
   width: 5px;
   background-color: black;
 }
+
+.bordoSinistro {
+  border-left: 2px solid orange;
+  padding-left: 5px;
+}
