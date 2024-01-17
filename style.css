@@ -8,6 +8,10 @@ body {
   text-align: center;
 }
 
+.formattazione {
+  text-align: left;
+}
+
 .bordo {
   border-bottom: 2px solid orange;
 }
