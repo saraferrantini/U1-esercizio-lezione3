@@ -24,7 +24,7 @@ body {
 .simply {
   background-color: rgb(253, 245, 224);
   height: 20px;
-  color: rgb(16, 119, 119);
+  color: #107777;
 }
 
 .font {
@@ -33,6 +33,7 @@ body {
 
 .foto {
   border-radius: 10px;
+  box-shadow: 0 6px 12px rgb(0 0 0/30%);
 }
 
 .opacita {
@@ -40,7 +41,11 @@ body {
 }
 
 .featured {
-  color: red;
+  color: rgb(153, 8, 8);
+}
+
+.fresh {
+  color: #068585;
 }
 
 .indentato {
@@ -58,4 +63,10 @@ footer {
   text-align: left;
   padding-left: 30%;
   padding-right: 30%;
+}
+
+.line {
+  height: 60%;
+  width: 5px;
+  background-color: black;
 }
