@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+body {
+  margin: 0px;
+}
+
+.centro {
+  text-align: center;
+}
+
+.bordo {
+  border-bottom: 2px solid orange;
+}
+
+.logo {
+  height: 10%;
+  width: 10%;
+}
+
+.simply {
+  background-color: rgb(253, 245, 224);
+  height: 20px;
+  color: rgb(16, 119, 119);
+}
+
+.font {
+  font-family: "DM Serif Display", serif;
+}
+
+.foto {
+  border-radius: 10px;
+}
+
+.opacita {
+  opacity: 0.5;
+}
+
+.featured {
+  color: red;
+}
+
+.indentato {
+  list-style-type: none;
+  padding: 0;
+}
+
+main {
+  text-align: left;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+footer {
+  text-align: left;
+  padding-left: 30%;
+  padding-right: 30%;
+}
